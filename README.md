@@ -1,5 +1,5 @@
 # Dashboard de Vendas Porsche com Agentes de IA
-📌 # Sobre o Projeto
+📌 #Sobre o Projeto
 Este projeto consiste em um painel de controle (dashboard) interativo que apresenta indicadores e análises de vendas da Porsche, desenvolvido como material de estudo e prática. O diferencial está na utilização de agentes de inteligência artificial para processar, limpar, validar e padronizar os dados, garantindo maior confiabilidade e qualidade das informações apresentadas.
 🔗 Acesso ao projeto: https://fydelis2025.github.io/Darshboard-Porche/
 📊 # Principais Indicadores Apresentados
